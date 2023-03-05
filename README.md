@@ -1,16 +1,24 @@
-# calculator_app
+# Calculator App With Flutter Bloc
 
-A new Flutter project.
+This project shows how to implemet a calculator app in Flutter, I'm using Flutter_bloc 8.1.2 and math_expressions 2.3.1 for the math calculations
 
-## Getting Started
+# Runnig the project
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
+2. Open the project in your preferred IDE.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Run the app on an emulator or physical device.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src="web/icons/image_1.jpeg" With="50%" height="50%">
+<img src="web/icons/image_2.jpeg" With="50%" height="50%">
+<img src="web/icons/image_3.jpeg" With="50%" height="50%">
+
+# Packages
+-[flutter_bloc](https://pub.dev/packages/flutter_bloc)
+-[math_expresions](https://pub.dev/packages/math_expressions)
+
+# Feature Roadmap
+- Add local calculator history 
+- Add scientific calculator page

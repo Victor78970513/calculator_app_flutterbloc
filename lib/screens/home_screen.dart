@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
           backgroundColor: const Color(0xffDFDFDF),
           body: SafeArea(
               child: Column(
-            mainAxisAlignment: MainAxisAlignment.end,
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               BoardResult(state.mathResult, state.rawOperation),
               Column(children: [
