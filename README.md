@@ -12,12 +12,12 @@ This project shows how to implemet a calculator app in Flutter, I'm using Flutte
 
 <p float="left">
 <img src="web/icons/image_1.jpeg" with="35%" height="10%">
-<img src="web/icons/image_2.jpeg" with="35%" height="10%">
-<img src="web/icons/image_3.jpeg" with="35%" height="10%">
+<!-- <img src="web/icons/image_2.jpeg" with="35%" height="10%">
+<img src="web/icons/image_3.jpeg" with="35%" height="10%"> -->
 
 # Packages
--[flutter_bloc](https://pub.dev/packages/flutter_bloc)
--[math_expresions](https://pub.dev/packages/math_expressions)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [math_expresions](https://pub.dev/packages/math_expressions)
 
 # Feature Roadmap
 - Add local calculator history 
