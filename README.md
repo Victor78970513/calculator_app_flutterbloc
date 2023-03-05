@@ -2,7 +2,7 @@
 
 This project shows how to implemet a calculator app in Flutter, I'm using Flutter_bloc 8.1.2 and math_expressions 2.3.1 for the math calculations
 
-# Runnig the project
+## Runnig the project
 
 1. Clone the repository
 
