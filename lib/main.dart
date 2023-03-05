@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocProvider(
       create: (_) => CalculatorBloc(),
-      child: MaterialApp(
+      child: const MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Material App',
         home: HomeScreen(),
