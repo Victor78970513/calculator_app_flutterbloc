@@ -11,9 +11,9 @@ This project shows how to implemet a calculator app in Flutter, I'm using Flutte
 3. Run the app on an emulator or physical device.
 
 <p float="left">
-<img src="web/icons/image_1.jpeg" With="50%" height="50%">
-<img src="web/icons/image_2.jpeg" With="50%" height="50%">
-<img src="web/icons/image_3.jpeg" With="50%" height="50%">
+<img src="web/icons/image_1.jpeg" With="50%" height="30%">
+<img src="web/icons/image_2.jpeg" With="50%" height="30%">
+<img src="web/icons/image_3.jpeg" With="50%" height="30%">
 
 # Packages
 -[flutter_bloc](https://pub.dev/packages/flutter_bloc)
